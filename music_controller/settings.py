@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-zxd$++s-ex)=^zie!vb6y03*92#zxc8cutl4=2!ao)6gh0w7#j
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['musiccontroller2021.herokuapp.com']
 
 
 # Application definition
